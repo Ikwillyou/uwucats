@@ -37,4 +37,10 @@ div {
 
 p {
     font-family: "Songti TC";
+    text-align: center;
+}
+img {
+    position: fixed;
+    z-index:2;
+    border: 5px solid #000000;
 }
